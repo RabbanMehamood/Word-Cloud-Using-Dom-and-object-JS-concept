@@ -1,4 +1,5 @@
 let wordCloud = ["Hello", "hii", "how", "what", "you", "yourself", "name", "victory", "food", "lovely", "beautiful", "written", "where", "who", "awesome"];
+
 let wordsContainerEl = document.getElementById("wordsContainer");
 let userInputEl = document.getElementById("userInput");
 let errorMsgEl = document.getElementById("errorMsg");
